@@ -1,0 +1,8 @@
+*tfplan.out
+.terraform
+*.tfstate
+*.tfstate.*
+*.log
+.env
+*.tfvars
+backend.conf
